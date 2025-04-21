@@ -50,7 +50,7 @@ export default function Hero() {
 
   const [code] = useState(`
 const profile = {
-    name: 'Abdullah ',
+    name: 'Abdullah Zordok',
     title: 'Front End Developer | Full-Stack Developer  | Problem Solver',
     skills: [
         'Angular', 'HTML', 'CSS', 'JavaScript',

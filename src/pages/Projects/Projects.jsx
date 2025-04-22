@@ -4,6 +4,7 @@ import { useRef } from "react";
 import PropTypes from "prop-types";
 import homepage from "@/assets/images/404.png";
 import Movie from "@/assets/images/Movie.jpg";
+import project02 from "@/assets/images/project02.png";
 
 
 const projects = [
@@ -22,7 +23,7 @@ const projects = [
     description:
       "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
     src: "tree.jpg",
-    link: "",
+    link: project02,
     color: "#8f89ff",
     githubLink: "",
     liveLink: "",

@@ -64,7 +64,7 @@ const ExperienceSection = () => {
     {
       icon: Layers,
       title: "Junior Full Stack  Developer",
-      company: "Sera Programmer",
+      company: "FoxMind Tech Ltd",
       period: "2025 - Present ",
       description:
         "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
